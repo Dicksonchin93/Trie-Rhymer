@@ -35,7 +35,9 @@ I implemented two ways to match the query to the Trie, first is going through co
 
 To demonstrate the concatenated string characters with the word "Orange"
 
-Method 1 - first query  : 'e'
+Method 1 - 
+
+           first query  : 'e'
 
            second query : 'ge'
            
@@ -43,7 +45,9 @@ Method 1 - first query  : 'e'
            
            last query   : 'Orange'
            
-Method 2  First query   : 'ge'
+Method 2  
+
+          First query   : 'ge'
 
           second query  : 'range'
           
