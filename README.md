@@ -10,7 +10,7 @@ There is three files included listed below:
 - dictionary.txt : example dictionary word list separated by newlines
 - query.txt      : example query word list separated by newlines
 
-
+Run ./compile.sh and run ./main to execute code
 # Software description
 ----------------------------------------------------
 C++0x/ C++11
