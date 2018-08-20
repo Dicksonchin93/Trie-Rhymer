@@ -14,7 +14,9 @@ There is three files included listed below:
 # Software description
 ----------------------------------------------------
 C++0x/ C++11
+
 compiled with g++, searched online and it seems mac computers have a version of c++ so I assume it would work on Mac.
+
 Set random mode, syllable mode, and debug mode in macro.h
 
 # Methodology
