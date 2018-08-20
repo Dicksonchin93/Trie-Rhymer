@@ -36,12 +36,17 @@ I implemented two ways to match the query to the Trie, first is going through co
 To demonstrate the concatenated string characters with the word "Orange"
 
 Method 1 - first query  : 'e'
+
            second query : 'ge'
+           
            .......
+           
            last query   : 'Orange'
            
 Method 2  First query   : 'ge'
+
           second query  : 'range'
+          
           last query    : 'Orange'
           
 Both methods will return the most number of characters match and does have at least one matched word in the trie
