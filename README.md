@@ -3,12 +3,12 @@ Rhymer function implemented with Trie in C++
 
 There is three files included listed below:
 
--compile.sh : shell script containing command used to compile in ubuntu
--main.cpp    : Main code used to run and compile the codes
--trie.cpp    : Data Structure definition
--macros.h    : Variables that can be toggled 0 and 1 to change different running versions
--dictionary.txt : example dictionary word list separated by newlines
--query.txt      : example query word list separated by newlines
+- compile.sh : shell script containing command used to compile in ubuntu
+- main.cpp    : Main code used to run and compile the codes
+- trie.cpp    : Data Structure definition
+- macros.h    : Variables that can be toggled 0 and 1 to change different running versions
+- dictionary.txt : example dictionary word list separated by newlines
+- query.txt      : example query word list separated by newlines
 
 
 # Software description
