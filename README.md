@@ -21,7 +21,7 @@ Set random mode, syllable mode, and debug mode in macro.h
 
 # Methodology
 ----------------------------------------------------
-Initially did some research on good data structures with string matching, found a few data structure which was not used for the final implementation based on a few reasoning listed below:
+In this implementation, words that rhyme is defined by most number of characters that matched, it doesn't take into account strings that have different characters but sounds the same when pronounced. Initially did some research on good data structures with string matching, found a few data structure which was not used for the final implementation based on a few reasoning listed below:
 
 - Aho–Corasick algorithm : The complexity of the algorithm is linear in the length of the strings plus the length of the searched text plus the number of output matches
 - Bloom-filter : Memory efficient does is very scalable, though it will have chances of getting false positive so rejected
